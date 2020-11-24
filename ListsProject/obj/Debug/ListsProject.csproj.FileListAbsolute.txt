@@ -1,0 +1,7 @@
+C:\Users\IGNITER\source\repos\EstructuraDatos_Programs\ListsProject\obj\Debug\ListsProject.csprojAssemblyReference.cache
+C:\Users\IGNITER\source\repos\EstructuraDatos_Programs\ListsProject\obj\Debug\ListsProject.csproj.CoreCompileInputs.cache
+C:\Users\IGNITER\source\repos\EstructuraDatos_Programs\ListsProject\bin\Debug\ListsProject.exe.config
+C:\Users\IGNITER\source\repos\EstructuraDatos_Programs\ListsProject\bin\Debug\ListsProject.exe
+C:\Users\IGNITER\source\repos\EstructuraDatos_Programs\ListsProject\bin\Debug\ListsProject.pdb
+C:\Users\IGNITER\source\repos\EstructuraDatos_Programs\ListsProject\obj\Debug\ListsProject.exe
+C:\Users\IGNITER\source\repos\EstructuraDatos_Programs\ListsProject\obj\Debug\ListsProject.pdb
