@@ -1,0 +1,10 @@
+C:\Users\IGNITER\source\repos\EstructuraDatos_Programs\CalculadoraRPN\bin\Debug\CalculadoraRPN.exe.config
+C:\Users\IGNITER\source\repos\EstructuraDatos_Programs\CalculadoraRPN\bin\Debug\CalculadoraRPN.exe
+C:\Users\IGNITER\source\repos\EstructuraDatos_Programs\CalculadoraRPN\bin\Debug\CalculadoraRPN.pdb
+C:\Users\IGNITER\source\repos\EstructuraDatos_Programs\CalculadoraRPN\obj\Debug\CalculadoraRPN.csprojAssemblyReference.cache
+C:\Users\IGNITER\source\repos\EstructuraDatos_Programs\CalculadoraRPN\obj\Debug\CalculadoraRPN.Form1.resources
+C:\Users\IGNITER\source\repos\EstructuraDatos_Programs\CalculadoraRPN\obj\Debug\CalculadoraRPN.Properties.Resources.resources
+C:\Users\IGNITER\source\repos\EstructuraDatos_Programs\CalculadoraRPN\obj\Debug\CalculadoraRPN.csproj.GenerateResource.cache
+C:\Users\IGNITER\source\repos\EstructuraDatos_Programs\CalculadoraRPN\obj\Debug\CalculadoraRPN.csproj.CoreCompileInputs.cache
+C:\Users\IGNITER\source\repos\EstructuraDatos_Programs\CalculadoraRPN\obj\Debug\CalculadoraRPN.exe
+C:\Users\IGNITER\source\repos\EstructuraDatos_Programs\CalculadoraRPN\obj\Debug\CalculadoraRPN.pdb
